@@ -1,0 +1,132 @@
+
+{
+    "works": [
+      {
+        "title": "SideProject",
+        "id": 1,
+        "h": 100, 
+        "photo": "@/assets/images/bg1.jpg",
+        "info": "之前上Web3時期的NFT專案，主要是酒精路跑與NFT結合，發行門票型的NFT，同時也可以透過不同的NFT合成新的NFT，目前因為還沒把智能合約匯入，所以用自己創的data當作資料，可以連接錢包，之後會把顯示餘額，和交易功能補上，視覺和UIUX也是我做的，附上figma和Github",
+        "workId":"work1",
+        "exploreInfo": "Figma:https://www.figma.com/file/f6xw86AfTfMutxc6STAdV4/wirframeMockup?type=design&node-id=0%3A1&mode=design&t=oQMcQF3XYGjaE6pW-1,https://a88759666.github.io/BarNft/"      
+      },
+      {
+        "title": "唱歌活動",
+        "id": 2,
+        "h": 120, 
+        "photo": "@/assets/images/bg2.jpg",
+        "info": "系學會主辦的活動，每年一次的慣例活動，會以競賽的方式進行，媒人選定一首曲目，較高分者勝，通常以搞笑的形式出演分數較高",
+        "workId":"work2",
+        "exploreInfo": "https://www.facebook.com/NTPUECO"      
+      },
+      {
+        "title": "運動賽事",
+        "id": 3,
+        "h": 80, 
+        "photo": "@/assets/images/bg3.jpg",
+        "info": "大型的運動賽事，籃球、排球、桌球，還有一些趣味競賽，讓喜歡運動的選手，可以在賽場上一展長才",
+        "workId":"work3",
+        "exploreInfo": "https://www.facebook.com/NTPUECO"      
+      },
+      {
+        "title": "實習講座",
+        "id": 4,
+        "h": 100, 
+        "photo": "@/assets/images/bg4.jpg",
+        "info": "大三生大四為TA的主要活動，目的是邀請已經在工作的學長姐回來分享，讓學弟妹可以先了解業界的情況，先熟悉實習環境等等",
+        "workId":"work4",
+        "exploreInfo": "https://www.facebook.com/NTPUECO"      
+      },
+      {
+        "title": "粉專經營",
+        "id": 5,
+        "h": 80, 
+        "photo": "@/assets/images/bg5.jpg",
+        "info": "一年一度系上最大的盛事，結合戲劇、表演、和脫口秀等等各種演出，同時也會招商、各種贊助，也會提供抽獎，讓大家有個機會能夠聚在一起，一同歡樂",
+        "workId":"work5",
+        "exploreInfo": "https://www.facebook.com/2019ecoweekdemo"      
+      },
+      {
+        "title": "SideProject",
+        "id": 6,
+        "h": 80, 
+        "photo": "@/assets/images/bg6.jpg",
+        "info": "在AlphaCamp時練習的仿Twitter專案，由前後端互相配合完成，練習怎麼打API和一些Git操作，了解專案運作的流程，也學會跟不同人溝通，但目前後端Postman效期已過，所以沒辦法順利登入，附上Github&Notion",
+        "workId":"work6",
+        "exploreInfo": "https://github.com/a88759666/AlphaCamp-twitter,https://psychedelic-mine-4a0.notion.site/Twitter-workspace-0343f1fb9b93444999d26cf776326c7a"      
+      },
+      {
+        "title": "粉專經營",
+        "id": 7,
+        "h": 100, 
+        "photo": "@/assets/images/bg7.jpg",
+        "info": "活動配合廠商所提供的廣告貼文，有廠商提供贊助，我們來提供貼文，增加推廣和觸擊率",
+        "workId":"work7",
+        "exploreInfo": "https://www.facebook.com/2019ecoweekdemo"      
+      },
+      {
+        "title": "粉專經營",
+        "id": 8,
+        "h": 120, 
+        "photo": "@/assets/images/bg8.jpg",
+        "info": "為高中生認識科系所辦的營隊，藉此更了解經濟系的發展與概況",
+        "workId":"work8",
+        "exploreInfo": "https://www.facebook.com/ntpu.eco.camp"      
+      },
+      {
+        "title": "粉專經營",
+        "id": 9,
+        "h": 80, 
+        "photo": "@/assets/images/bg9.jpg",
+        "info": "為高中生認識科系所辦的營隊，藉此更了解經濟系的發展與概況",
+        "workId":"work9",
+        "exploreInfo": "https://www.facebook.com/ntpu.eco.camp"      
+      },
+      {
+        "title": "品牌設計",
+        "id": 10,
+        "h": 100, 
+        "photo": "@/assets/images/bg10.jpg",
+        "info": "為電商設計的品牌LOGO，從品牌理念和品牌價值的起創期間都有參與，把穿衣WEAR這個概念，表達簡單且俐落，符合現代的快時尚",
+        "workId":"work10",
+        "exploreInfo": ""
+      },
+      {
+        "title": "SideProject",
+        "id": 11,
+        "h": 120, 
+        "photo": "@/assets/images/bg11.jpg",
+        "info": "利用 React+Redux&Toolkit 做成的仿IG的首頁介面，同時也做了RWD，手機板也可以預覽，附上Github",
+        "workId":"work11",
+        "exploreInfo": "https://a88759666.github.io/IGRedux/"
+      },
+      {
+        "title": "粉專經營",
+        "id": 13,
+        "h": 120, 
+        "photo": "@/assets/images/bg13.jpg",
+        "info": "大一時第一個經營的粉專，可以看出當時貼文的生澀感，像是一個委託所，主要是在解決委託，諸如賣東西，或是舉辦活動，提供行銷諮詢等",
+        "workId":"work13",
+        "exploreInfo": "https://www.facebook.com/makeittruemakeitfamous"
+      },
+      {
+        "title": "麻將盃賽",
+        "id": 14,
+        "h": 120, 
+        "photo": "@/assets/images/bg14.jpg",
+        "info": "疫情期間(非嚴重時段)因為禁止辦大型活動，而舉辦的可以控制人數的小型活動，主要是在促進疫情時代下，重新連接人與人的交流，回歸正常的交友管道",
+        "workId":"work14",
+        "exploreInfo": "https://www.facebook.com/NTPUECO"
+      },
+      {
+        "title": "粉專經營",
+        "id": 15,
+        "h": 100, 
+        "photo": "@/assets/images/bg15.jpg",
+        "info": "為活動設計的粉專LOGO，同時也是粉專大頭貼，粉專案讚次數總瀏覽數",
+        "workId":"work15",
+        "exploreInfo": "https://www.facebook.com/2019ecoweekdemo"
+      }
+    ]
+  }
+   

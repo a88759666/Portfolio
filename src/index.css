@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #fffbf0;
+    scroll-behavior: smooth
+}
+
+@layer components {
+    .nav_btn {
+        @apply  font-sans text-gold font-bold text-[16px]  px-[30px] py-[10px] leading-[22px];
+    }
+    .nav_btn:hover {
+        @apply w-full;
+    }
+    .li_btn{
+        @apply  text-white text-[12px] py-[10px] px-[30px] 
+    }
+    .li_btn:hover{
+        @apply ring-2 ring-opacity-40 ring-white
+    }
+  }
