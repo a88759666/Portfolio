@@ -25,7 +25,7 @@ Portfolio
   * Typescript
   * Tailwind樣式開發
 
-![screenshot](./src/assets/images/screenshot.jpg)
+![screenshot](./src/assets/images/screenshot.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
