@@ -4,7 +4,7 @@ Portfolio
 
 ## Getting Start
 
-    git clone https://github.com/a88759666/Porfolio.git
+    git clone https://github.com/a88759666/Portfolio.git
 
     npm install
 
